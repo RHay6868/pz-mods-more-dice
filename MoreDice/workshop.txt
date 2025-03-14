@@ -1,0 +1,42 @@
+version=1
+id=2793110189
+title=More Dice!
+description=[h1]Full Set of Usable Dice [/h1]
+description=Ever wanted to play a game within a game? With this mod you now have usable D4, D6, D8, D10, D12, D20, and D100 dice.
+description=
+description=[h1]Functions in the mod[/h1]
+description=Dice bag items were added to the game 
+description=[list]
+description=  [*]Take out your dice = Getting a full set in your inventory
+description=  [*]Bag up your dice = removing your dice but adding a Dice bag to your inventory [b](must have full set)[/b]
+description=[/list]
+description=
+description=Every die can be rolled on the ground randomly getting the values the die holds which will be said by your character both in text and number form. 
+description=
+description=[h1]Is it safe to add / remove?[/h1]
+description=No original items were edited, should be able to add or remove this mod at any time. Safe to say you will lose any items you gained from this mod if you remove it. [b][i]NOTE: This has not been thoroughly tested against other mods or in MP[/i][/b]
+description=
+description=[h1]Where do I find the Dice?[/h1]
+description=A loot table has been added to spawn these mostly in Toy Stores but can be rarely picked up from a shelf or a bar counter.
+description=
+description=---------------------------------------------------------------------------------------------
+description=
+description=[img]https://steamuserimages-a.akamaihd.net/ugc/1660101375273576639/0C12E325C464F5DC166E5FF2AB70A43581BED64F/[/img]
+description=
+description=I appreciate your interest in my mod, please don't forget to rate it. If you feel especially inclined, donating a [url=https://ko-fi.com/ryanhayes]coffee[/url] goes a long way for me.  
+description=
+description=[url=https://ko-fi.com/ryanhayes][img]https://i.imgur.com/2uTskWl.png[/img][/url]
+description=
+description=[b]Other workshops by me:[/b]
+description=
+description=[table]
+description=[tr]
+description=  [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2795036124][img]https://steamuserimages-a.akamaihd.net/ugc/1816648364485570105/A6154A0815FAE7D3443BB2EE5429448B6C0A7FAA/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=  [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2792074336][img]https://steamuserimages-a.akamaihd.net/ugc/1816647644125465954/DE4DA8B080356B19B39B66016D9B1E4AFAF4A080/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[/tr][/table]
+description=
+description=[quote=author] Do not copy, modify, redistribute, or repackage this mod without explicit permission from the creator. This includes on or off of steam, within another mod or modpack, or a different modified version. This item can be published on Steam only through an account with the name Mackus103.
+description=© 2022-2022 Mackus103  [/quote] 
+description=-------------------------------------------
+tags=Build 41;Items;Misc;Silly/Fun
+visibility=public
